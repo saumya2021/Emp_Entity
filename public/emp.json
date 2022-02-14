@@ -1,0 +1,28 @@
+{
+  "emps": [
+    {
+      "empId": 101,
+      "empName": "Ankita",
+      "empAddress": "Ranchi",
+      "email": "abc@gmail.com",
+      "gender": "FEMALE",
+      "doj": "2021-02-06",
+      "dob": "2000-07-06",
+      "phone": 8956512321,
+      "designation": "ANALYST",
+      "leavesAvailable": 2
+    },
+    {
+      "empId": 102,
+      "empName": "Anita",
+      "empAddress": "Ranchi",
+      "email": "abc@gmail.com",
+      "gender": "FEMALE",
+      "doj": "2021-02-06",
+      "dob": "2000-07-06",
+      "phone": 8956512321,
+      "designation": "ANALYST",
+      "leavesAvailable": 2
+    }
+  ]
+}
